@@ -1,3 +1,5 @@
 node_modules
 .env
 .ds_store
+
+package-lock.json
